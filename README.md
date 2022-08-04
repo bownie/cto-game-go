@@ -1,3 +1,5 @@
+[![Go](https://github.com/bownie/cto-game-go/actions/workflows/go.yml/badge.svg)](https://github.com/bownie/cto-game-go/actions/workflows/go.yml)
+
 # CTO Game Go
 
 A future thing.
